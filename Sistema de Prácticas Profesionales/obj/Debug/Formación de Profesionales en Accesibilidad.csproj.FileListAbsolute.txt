@@ -1,0 +1,5 @@
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\Formación de Profesionales en Accesibilidad.csprojAssemblyReference.cache
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\MainWindow.g.cs
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\App.g.cs
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\Formación de Profesionales en Accesibilidad_MarkupCompile.cache
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\Formación de Profesionales en Accesibilidad_MarkupCompile.lref

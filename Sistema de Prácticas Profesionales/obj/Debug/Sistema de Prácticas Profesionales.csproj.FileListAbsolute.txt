@@ -1,0 +1,11 @@
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\Sistema de Prácticas Profesionales.csprojAssemblyReference.cache
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\MainWindow.g.cs
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\App.g.cs
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\Sistema de Prácticas Profesionales_MarkupCompile.cache
+C:\Users\israz\Desktop\Formación de Profesionales en Accesibilidad\Formación de Profesionales en Accesibilidad\obj\Debug\Sistema de Prácticas Profesionales_MarkupCompile.lref
+C:\Users\jhoni\Desktop\Sistema de Prácticas Profesionales\obj\Debug\Sistema de Prácticas Profesionales.csprojAssemblyReference.cache
+C:\Users\jhoni\Desktop\Sistema de Prácticas Profesionales\obj\Debug\MainWindow.g.cs
+C:\Users\jhoni\Desktop\Sistema de Prácticas Profesionales\obj\Debug\App.g.cs
+C:\Users\jhoni\Desktop\Sistema de Prácticas Profesionales\obj\Debug\Sistema de Prácticas Profesionales_MarkupCompile.cache
+C:\Users\jhoni\Desktop\Sistema de Prácticas Profesionales\obj\Debug\Sistema de Prácticas Profesionales_MarkupCompile.lref
+C:\Users\jhoni\Desktop\Sistema de Prácticas Profesionales\obj\Debug\Vistas\RegistrarPracticante.g.cs
